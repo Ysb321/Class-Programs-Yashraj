@@ -3,7 +3,7 @@
 using namespace std;
 
 class Person{
-    // class in by default private 
+    // class is by default private 
     int age;
     char name[20];
     char gender;
