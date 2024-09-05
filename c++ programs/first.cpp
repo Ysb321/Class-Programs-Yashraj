@@ -25,7 +25,7 @@ class Person{
 };
  
  int main(){
-    Person P;
+    Person P; // P is Object
     // P.age = 20;
     P.setData(20, "ABC", 'M');
     P.display();
