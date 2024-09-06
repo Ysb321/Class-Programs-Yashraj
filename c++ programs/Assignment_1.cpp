@@ -17,8 +17,8 @@ class Person{
     }
     void display()
     {
-        cout<<" Name: " << this -> name;
-        cout<<" age: " << age;
+        cout<<" Name: " << this -> name << endl;
+        cout<<" age: " << age <<endl;
         cout<<" Gender: " << gender << endl << endl;
     }
 };
@@ -40,9 +40,9 @@ class Employee{
     }
     void display()
     {
-        cout<<" Employee Name: " << this -> name; 
-        cout<<" Employee Number: " << empNum;
-        cout<<" Employee Gender: " << gender;
+        cout<<" Employee Name: " << this -> name <<endl; 
+        cout<<" Employee Number: " << empNum <<endl;
+        cout<<" Employee Gender: " << gender <<endl;
         cout<<" Employee salary: " << salary << endl << endl;
     }
 };
@@ -65,10 +65,10 @@ class Student{
     }
     void display()
     {
-        cout<<" Student Name: " << this -> name;
-        cout<<" Student Age: " << age;
-        cout<<" Student Grade: " << grade;
-        cout<<" Student Roll Number: " << rollNum;
+        cout<<" Student Name: " << this -> name <<endl;
+        cout<<" Student Age: " << age <<endl;
+        cout<<" Student Grade: " << grade <<endl;
+        cout<<" Student Roll Number: " << rollNum <<endl;
         cout<<" Student Gender: " << stuGender << endl << endl;
     }
 };
@@ -90,9 +90,9 @@ class Vehicle{
     }
     void display()
     {
-        cout<<" Vehicle Type: " << this -> Type;
-        cout<<" Company Name: " << name;
-        cout<<" Manufacture Date: " << mfd;
+        cout<<" Vehicle Type: " << this -> Type <<endl;
+        cout<<" Company Name: " << name <<endl;
+        cout<<" Manufacture Date: " << mfd <<endl;
         cout<<" Vehicle Price: " << price<<endl<<endl;
     }
 };
@@ -114,9 +114,9 @@ class Library{
     }
     void display()
     {
-        cout<<" Book Number: " << this -> bookNum;
-        cout<<" Book Name: " << name;
-        cout<<" Author Name: " << author;
+        cout<<" Book Number: " << this -> bookNum <<endl;
+        cout<<" Book Name: " << name <<endl;
+        cout<<" Author Name: " << author <<endl;
         cout<<" Book Price: " << price<< endl << endl;
     }
 };
@@ -138,9 +138,9 @@ class Company{
     }
     void display()
     {
-        cout<<" Company Name: " << this -> name;
-        cout<<" Company Department: " << department;
-        cout<<" Company Product: " << product;
+        cout<<" Company Name: " << this -> name <<endl;
+        cout<<" Company Department: " << department <<endl;
+        cout<<" Company Product: " << product <<endl;
         cout<<" Industry Rank: " << rank << endl << endl;
     }
 };
@@ -162,9 +162,9 @@ class Mobile{
     }
     void display()
     {
-        cout<<" Mobile Brand Name: " << this -> name;
-        cout<<" Camera in MP: " << camera;
-        cout<<" Ram In GB: " << ram;
+        cout<<" Mobile Brand Name: " << this -> name <<endl;
+        cout<<" Camera in MP: " << camera <<endl;
+        cout<<" Ram In GB: " << ram <<endl;
         cout<<" Processor Name: " << processor << endl << endl;
     }
 };
@@ -186,9 +186,9 @@ class Laptop{
     }
     void display()
     {
-        cout<<" Laptop Brand: " << this -> name;
-        cout<<" Laptop Ram: " << lapRam;
-        cout<<" Laptop Processor: " << lapProcessor;
+        cout<<" Laptop Brand: " << this -> name <<endl;
+        cout<<" Laptop Ram: " << lapRam <<endl;
+        cout<<" Laptop Processor: " << lapProcessor <<endl;
         cout<<" Laptop Price: " << prize << endl << endl;
     }
 };
@@ -210,9 +210,9 @@ class Shirts{
     }
     void display()
     {
-        cout<<" Shirt Brand Name: " << this -> name;
-        cout<<" Shirt Type: " << shiType;
-        cout<<" Shirt Size: " << size;
+        cout<<" Shirt Brand Name: " << this -> name <<endl;
+        cout<<" Shirt Type: " << shiType <<endl;
+        cout<<" Shirt Size: " << size <<endl;
         cout<<" Shirt Price: " << price << endl << endl;
     }
 };
@@ -234,9 +234,9 @@ class Jobs{
     }
     void display()
     {
-        cout<<" Job Type: " << this -> jobType;
-        cout<<" Job Title: " << name;
-        cout<<" Job Minimum Salary: " << minSalary;
+        cout<<" Job Type: " << this -> jobType <<endl;
+        cout<<" Job Title: " << name <<endl;
+        cout<<" Job Minimum Salary: " << minSalary <<endl;
         cout<<" Job Maximum Salary: " << maxSalary << endl << endl;
     }
 };
