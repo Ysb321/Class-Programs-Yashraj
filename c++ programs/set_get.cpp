@@ -33,20 +33,20 @@ class Person{
         this -> gender = gender;
     }
 
-    int getAge()
-    {
-        return age;
-    }
+    // int getAge()
+    // {
+    //     return age;
+    // }
 
-    char *getName()
-    {
-        return name;
-    }
+    // char *getName()
+    // {
+    //     return name;
+    // }
 
-    char getGender()
-    {
-        return gender;
-    }
+    // char getGender()
+    // {
+    //     return gender;
+    // }
     
 };
 
