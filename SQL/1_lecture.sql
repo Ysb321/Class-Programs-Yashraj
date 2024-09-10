@@ -2,15 +2,21 @@ create database class;
 
 use class; 
 
+ 
+
 # To create a table 
 CREATE TABLE Product(
-	PId int,
+    PId int,
     PName varchar(20),
     Ptype varchar(20),
     price float,
     Qty int,
     Mdate date
 );
+
+show tables;
+
+desc Yashraj;
 
 # For checking format of table
 select * from product;
