@@ -1,46 +1,25 @@
-create database yash;
+create database class;
 
-CREATE TABLE yash.Yashraj(
-	ID int primary key,
-    Name varchar(200),
-    Address varchar(400),
-	Description_all varchar(120)
-);
+use class; 
 
-insert into yash.Yashraj(ID, Name, Address, Description) values(22, 'Yashraj', 'Washim Maharastra', 'Web Developer');
-
-
-SELECT *from yash.Yashraj;
-
-use yash; 
-
-show tables;
-
-desc Yashraj; 
-
-CREATE TABLE product(
-    PId int,
-    Pname varchar(15),
-    Ptype varchar(15),
-    Description varchar(40),
-    price float, 
+# To create a table 
+CREATE TABLE Product(
+	PId int,
+    PName varchar(20),
+    Ptype varchar(20),
+    price float,
     Qty int,
     Mdate date
 );
 
-select *from product;
+# For checking format of table
+select * from product;
 
-Insert INTO product
-values(1,'Parle-G','Biscuit', 'G for Genius', 5.512, 1000, now());
+#For Inserting table.
 
-Insert INTO product
-values(2,'fair and lovely','cream', 'fairness cream', 16.44, 1200, now());
-
-Insert INTO product
-values(3,'Lays','Chips', 'testy hai', 8.512, 1000, now());
-
-Insert INTO product
-values(4,'Dettol','Handwash','Cleaning purpose', 19.512, 1000, now());
-
-
-
+INSERT INTO Product
+values(2, 'Dettol', 'Handwash', 53.5, 5500, sysdate());
+INSERT INTO Product
+values(3, 'Lays', 'Chips', 6.5, 2500, sysdate());
+INSERT INTO Product
+values(4, 'Fair and Handsome', 'fairness cream', 33.5, 6500, sysdate());
