@@ -10,3 +10,11 @@
 //Parameterize constructor
 
 //Copy constructor
+
+// COnstructor name & class name must be same
+
+//constructor get call automatically object is created.
+
+// constructor must always be public not in private bcoz it 
+
+// same two objects can't call constructor.
