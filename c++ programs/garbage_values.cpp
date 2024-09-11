@@ -8,6 +8,7 @@ class Time
     int minute;
     int second;
 
+
     public:
 
     void setTime(int hour, int minute, int second)
@@ -26,13 +27,27 @@ class Time
 
     Time() // created own constructor
     {
+        cout<< "Default Constructor";
         hour = 100;
         minute = 0;
         second = 0;
     }
+
+    Time (int hour, int minute, int second)
+    {
+        cout<< "Paramiterize constructor";
+        this -> hour = hour;
+        this -> minute = minute;
+        this -> second = second;
+    }
+
+ 
 };
 
 int main(){
-    Time T;
-    T.display(); // printing garbage values created by default constructor if we not create constructor
+   Time T;
+   T.display(); // printing garbage values created by default constructor if we not create constructor
+
+   Time t1(23, 231, 223);
+   t1.display(); // it will parameterize constructor
 }
