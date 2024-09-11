@@ -39,7 +39,8 @@ select *from product;
 -- To change size of data type for a column
 -- Alter Table table_name modify(column_name data_type(size));
 
-Alter Table product modify ptype varchar(40);
+Alter Table product modify ptype varchar(30);
+Alter Table product modify ptype char(30); -- it changes datatype varchar to char
 
 desc product;
 

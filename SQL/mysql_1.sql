@@ -4,7 +4,7 @@ use class;
 
  
 
-# To create a table 
+-- To create a table 
 CREATE TABLE Product(
     PId int,
     PName varchar(20),
@@ -18,10 +18,10 @@ show tables;
 
 desc Yashraj;
 
-# For checking format of table
+-- For checking format of table
 select * from product;
 
-#For Inserting table.
+-- For Inserting table.
 
 INSERT INTO Product
 values(2, 'Dettol', 'Handwash', 53.5, 5500, sysdate());
