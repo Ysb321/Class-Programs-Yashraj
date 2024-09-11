@@ -3,7 +3,7 @@
 // If there is no constructor in our class the compiler will provide a 'default constructor'.
 // If we create our own constructor then compiler will never provider constructor.
 
-// there are three 
+// there are three types of constructor.
 
 // Default Constrctur 0 aurgument constructor
 
