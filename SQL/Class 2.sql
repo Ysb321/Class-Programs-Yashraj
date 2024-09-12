@@ -45,3 +45,9 @@ Alter Table product modify ptype char(30); -- it changes datatype varchar to cha
 desc product;
 
 select *from product;
+
+Alter table product rename to products;
+
+Alter table products rename to product;
+
+select* from product;
