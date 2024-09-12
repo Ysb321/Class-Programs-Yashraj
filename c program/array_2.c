@@ -8,6 +8,6 @@ int main()
     }
     printf("\nArray values \n");
     for(int i=0; i<5; i++){
-    printf("\n%d",&marks[i]);
+    printf("\n%d",marks[i]);
     }
 }
