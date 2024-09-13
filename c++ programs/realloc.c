@@ -1,3 +1,5 @@
+//realloc in c 
+
 #include <stdio.h>
 #include <stdlib.h>
 int main()
@@ -7,7 +9,7 @@ int main()
     int *ptr;
     // int ptr[5];
 
-    ptr = (int *) malloc(5 * sizeof(int));
+    ptr = (int *) calloc(5, sizeof(int));
 
     for(i=0; i<5; i++)
     {
