@@ -41,7 +41,7 @@ class Time
         this -> second = second;
     }
 
-    Time(Time & k) // when calling object in constructor then put '&', &k is getting refference of t1
+    Time (Time &k) // when calling object in constructor then put '&', &k is getting refference of t1
     { 
         cout << "Copy Constructor"<<endl;
         this -> hour = k.hour;
