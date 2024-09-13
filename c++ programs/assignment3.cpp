@@ -29,16 +29,18 @@ class Time
     Time addTime(Time &k)
     {
         Time temp;
-        temp.hour = this -> hour + k.hour;
+        temp.hour = this -> hour + k.hour; // this -> hour is hour from t1 & k.hour from t2 or it reffer to t2 then make addition store in temp object
         temp.minute = this ->  minute + k.minute;
         temp.second = this -> second + k.second;
 
         if(temp.second >= 60){
-            temp.second = temp.second - 60;
+            // temp.second = temp.second - 60;
+            temp.second = temp.second % 60;
             temp.minute ++;
         }
         if(temp.minute >= 60){
-            temp.minute = temp.minute - 60;
+            // temp.minute = temp.minute - 60;
+            temp.minute = temp.minute % 60;
             temp.hour ++;
         }
             return temp;
