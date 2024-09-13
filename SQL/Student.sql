@@ -1,17 +1,16 @@
-Use class;
 select *from student;
 
 create table student
 (
-    Student_Id Number,
+    Student_Id int,
     Student_Name varchar(20),
     Student_Surname varchar(20),
-    Marks  Number(3,2),
-    Total_marks Number,
+    Marks  float,
+    Total_marks int,
     Grade char
 );
 
-Alter Table student Modify(Marks Number(6,2));
+Alter Table student Modify Marks Number(6,3);
 
 Insert Into student values(1, 'Trupti', 'Sardar', 99, 100, 'A');
 Insert Into student values(2, 'Amit', 'Patil', 98, 100, 'A');
