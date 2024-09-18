@@ -11,7 +11,7 @@ create table t1 as select *from product; -- copy or store data from another tabl
 
 select *from t1;
 
-truncate table t1; -- remove data from table
+truncate table t1; -- remove data from table or all rows from table
 
 -- Alter  is AutoCommit means can't be recover
 
