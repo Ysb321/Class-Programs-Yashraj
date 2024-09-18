@@ -12,9 +12,9 @@ class Employee{
     Employee(){
         cout<<"default Constructor"<<endl;
         empId = new int(20);
-        name = new char[strlen("yashraj") + 1];
+        name = new char[8];
         strcpy(name, "yashraj");
-        project = new char[strlen("yash") + 1];
+        project = new char[5];
         strcpy(project, "yash");
         salary = new float(23.6);
 
