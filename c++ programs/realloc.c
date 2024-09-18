@@ -26,7 +26,7 @@ int main()
     printf("\nEnter new array n values: ");
     scanf("%d\n", &n);
 
-    ptr = (int *) realloc(ptr, n * sizeof(int));
+    ptr = (int *) calloc(ptr, n * sizeof(int));
 
     for(i=0; i<n; i++)
     {

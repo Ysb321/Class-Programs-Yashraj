@@ -7,9 +7,9 @@
 
 // there are three types of constructor.
 
-// Default Constrctur 0 aurgument constructor
+// Default Constrctur 0 aurgument / parameter constructor
 
-//Parameterize constructor
+// Parameterize constructor
 
 //Copy constructor
 
@@ -17,6 +17,6 @@
 
 //constructor get call automatically object is created.
 
-// constructor must always be public not in private bcoz it 
+// constructor must always be public not in private bcoz it can't by main function.
 
 // same two objects can't call constructor.
