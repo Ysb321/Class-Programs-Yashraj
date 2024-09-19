@@ -25,3 +25,5 @@ commit; -- commit the changes
 rollback; -- it will not rollback changes
 
 select *from tab;
+
+
