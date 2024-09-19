@@ -73,6 +73,6 @@ int main(){
     s2.display();
     cout<<"+++++++++"<<endl;
     s1.setName("Yash"); // Setter
-    S.display();
+    s1.display();
     cout<<"++++++++"<<endl;
 }

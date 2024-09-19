@@ -5,7 +5,7 @@ class String_Utility {
     char s2[100];
     int length;
 public:
-    void forStringCopy(const char s1[]) {
+    void forStringCopy( char s1[]) {
         int i;
         for (i = 0; s1[i] != '\0'; i++) {
             s2[i] = s1[i]; // stop loop until getting null
@@ -20,7 +20,7 @@ public:
         }
     }
 
-    void forStringContract(char s1[], const char s2[]) {
+    void forStringContract(char s1[],  char s2[]) {
         int s1len = 0;
         int s2len = 0;
 
@@ -37,7 +37,7 @@ public:
         s1[s1len] = '\0';
     }
 
-    int forStringCompare(const char* s1, const char* s2) {
+    int forStringCompare( char* s1, char* s2) {
         for (; *s1 && (*s1 == *s2); s1++, s2++);
         return *s1 - *s2;
     }
@@ -55,6 +55,7 @@ public:
             if (str[i] >= 'A' && str[i] <= 'Z') {
                 str[i] = str[i] + 32;
             }
+            
         }
     }
 

@@ -67,17 +67,17 @@ class Student
 
 int main()
 {
-    Student S;
-    S.display();
+    Student *ptr; // default constructor
+    ptr = new Student();
+    ptr -> display();
     cout<<"+++++++"<<endl;
-    Student *ptr;
-    ptr = new Student(22, "Yashraj", 89.9);
+    ptr = new Student(22, "Yashraj", 89.9); // paramiterize constructor
     ptr -> display();
     cout<<"++++++++"<<endl;
-    Student s2(*ptr);
-    s2.display();
+    Student *s2 = new Student(*ptr); // copy constructor
+    s2 -> display();
     cout<<"++++++"<<endl;
-    ptr -> setName("Yash");
+    ptr -> setName("Yash"); // setter
     ptr -> display();
     cout<<"++++++"<<endl;
     delete ptr;
