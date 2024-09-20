@@ -21,7 +21,7 @@ class Employee{
     }
     Employee(int empId, char* name, char* project, float salary)
     {
-         cout<<"Paramiterise Constructor"<<endl;
+        cout<<"Paramiterise Constructor"<<endl;
         this -> empId = new int(empId);
         int len = strlen(name);
         int len2 = strlen(project);
@@ -45,14 +45,14 @@ class Employee{
         this -> salary = new float(*k.salary);
     }
 
-    ~Employee() {
+   
+ ~Employee() {
         cout<<"\nDestructor"<<endl;
         delete empId;
         delete salary;
         delete[] name;
         delete[] project;
     }
-
     void setEmpName(char* name)
     {
         cout<<"Setter"<<endl;

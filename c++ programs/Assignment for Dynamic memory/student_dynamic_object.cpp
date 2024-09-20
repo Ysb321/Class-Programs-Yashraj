@@ -81,5 +81,6 @@ int main()
     ptr -> display();
     cout<<"++++++"<<endl;
     delete ptr;
+    delete s2;
 }
 
