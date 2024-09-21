@@ -10,7 +10,7 @@ class Person{
     public:
 
     Person(){
-        name = new char[4]; // created dynamic array of size 4 last for null store 3 address
+        name = new char[4]; // created dynamic array of size 4 last for null store 3 address, it return address in pointer 
         strcpy(name, "ABC");
         age = new int;
         *age = 11;
