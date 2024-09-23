@@ -2,7 +2,7 @@ git clone repo-site
 git init
 git status // start with this
 git add .
-git commit -m "Your commit"
+git commit -m "Your commit" // manditory
 git push / git push origin branch-name / git push origin branch-name --force
 git fetch
 git remote -v
