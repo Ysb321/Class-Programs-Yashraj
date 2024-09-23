@@ -1,0 +1,18 @@
+sqlplus hr/hr; //Run this command in CMD
+
+select *from tab;
+
+select * from employees;
+
+set linesize 200;
+set pagesize 500;
+
+create table newTable as select employee_id, first_name, last_name, email, salary, department_id from employees;
+
+select *from newTable;
+
+delete from newTable where department_id in (80,50);
+select *from newTable;
+
+create table newTable2 as select * from newTable where 1=2; //for creating structure of table
+insert into newTable2(select *from newTable); //for inserting data in table
