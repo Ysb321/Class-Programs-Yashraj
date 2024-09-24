@@ -1,0 +1,25 @@
+
+//////////////
+/nolog
+Normaly when you run sqlplus you should specify username and password (hr and hr)
+to  connect directly to database but with /nolog you are only starting the sqlplus tool ano connection made initially.
+
+connect hr/hr for connecting in sql enviorment
+///////////////
+select *from emp where 1=1;
+
+'where clause' to filter rows based on condition
+
+1=1 is always true because 1 is always equal to 1, no row will be filter , the query will return all rows from emp table effectivly making the where
+clause effective.
+///////////////
+
+select *from emp where 1=2;
+1=2 is condition that always false because the number 1 is not equal to 2 so it will select only columns not rows or it insert columns not rows.
+
+///////////
+
+CREATE command is used to create dabase object such as  table, views, indexes, procedure, function, trigger, alternate names;
+
+Type of CREATE statement 
+create table, create database , create view , create index, create procedure, create function, create trigger, create sysnonyms.
