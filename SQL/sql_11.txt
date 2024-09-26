@@ -1,0 +1,22 @@
+where clause:
+
+operators in SQL.
+
+1 Arithmatic operators.
+  + - * / 
+
+  % -> pattern mathching character
+
+2 Relational Operators.
+  < > <= >= !=
+
+3 Logical Operators.
+    AND, OR, not
+
+4 NULL Value Operators.
+  IS NULL, IS NOT NULL
+
+5 SQL Operators.
+ LIKE, NOT LIKE
+ IN, NOT IN
+ BETWEEN, NOT BETWEEN 

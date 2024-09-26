@@ -19,7 +19,8 @@ select *from emp where 1=2;
 
 ///////////
 
-CREATE command is used to create dabase object such as  table, views, indexes, procedure, function, trigger, alternate names;
+CREATE command is used to create database object such as  table, views, indexes, procedure, function, trigger, alternate names;
 
 Type of CREATE statement 
 create table, create database , create view , create index, create procedure, create function, create trigger, create sysnonyms.
+
