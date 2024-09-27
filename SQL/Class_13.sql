@@ -4,5 +4,6 @@ select *from employees where salary <> 11000; -- <> and != both are same
 
 select *from employees where job_id = 'SH_CLERK' AND job_id = 'ST_CLERK'; -- check both in one row rows so it will be 'no rows selected'
 
-select *from employees where job_id = 'SH_CLERK' OR job_id = 'ST_CLERK'; -- show results of both
+select *from employees where job_id = 'SH_CLERK' OR job_id = 'ST_CLERK'; -- show results of both conditions
 
+SQL> select *from employees where job_id = 'SH_CLERK' or job_id = 'PU_CLERK' and salary > 2000;
