@@ -12,3 +12,4 @@ select employee_id, first_name, salary, commission_pct, job_id from employees wh
 -- NULL is unpredictable value
 select employee_id, first_name, salary, commission_pct from employees where commission_pct = NULL; -- we don't know what is null can't predict
 -- null = null both are different we can't predict it.
+select *from employees;
