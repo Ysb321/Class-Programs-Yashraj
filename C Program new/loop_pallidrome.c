@@ -1,3 +1,4 @@
+// Loop in pallidrome.
 #include <stdio.h>
 
 int main() {
@@ -10,6 +11,13 @@ int main() {
         int digit = i % 10;
         rev = rev*10 + digit;
     }
-    printf("Reverse of %d is %d\n", num, rev);
+
+    if(rev==num)
+    {
+        printf("This number is pallidrome.");
+    }else{
+        printf("Tis number is not pallidrome.");
+    }
+    printf("\nReverse of %d is %d\n", num, rev);
     return 0;
 }
