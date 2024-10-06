@@ -3,7 +3,7 @@
 
 int pallidrom(int num)
 {
-    int rev, digit;
+    int rev=0, digit;
     int original_num = num;
     for(; num!=0; num= num/10)
     {
