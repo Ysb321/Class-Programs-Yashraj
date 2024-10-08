@@ -1,14 +1,14 @@
 #include<stdio.h>
 int main()
 {
-    int a = 2;
-    int b = 4;
+    int x = 2;
+    int y = 4;
     int power = 1, i;
-    int original_a = a;
-    for(i=1; i<=b; i++)
+    int original_x = x;
+    for(i=1; i<=y; i++)
     {
-        power = power * a;
+        power = power * x;
     }
     printf("The Raise to Power:\n");
-    printf(" %d ^ %d = %d", original_a, b, power);
+    printf(" %d ^ %d = %d", original_x, y, power);
 }
