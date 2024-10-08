@@ -1,0 +1,112 @@
+BETWEEN oprators:
+between allow you to select a recoards where two values falls within the specified range.
+
+select column_names from table_name where column_name BETWEEN value1 AND value2;
+example:
+select * from employees where Salary BETWEEN 1200 AND 1800;
+
+It shows all the emplyees paid in the range 1200 to 1800 including 1200 to 1800;
+
+------------------------------------------------
+
+NOT BETWEEN operator:
+
+works opposite way of BETWEEN operator;
+
+It filter out the records that do not falls between range.
+
+select column_names from table_name where column_name NOT BETWEEN value1 AND value2;
+example:
+select * from employees where Salary NOT BETWEEN 1200 AND 1800;
+
+Querry will return all employees whose salary either less than 1200 and more to 1800.
+
+------------------------------------------------
+------------------------------------------------
+
+like and not like for pattern matching they help filter records based on whether 
+the column values matches or doesn't match a specific pattern.
+
+LIKE operator:
+
+It is use help filter records based on whether the column values matches specific patterns
+
+It uses Wildcards characters to defined the pattern:
+
+% use to match 0 or more characters
+
+__  use to match any single character.
+
+select column_names from table_name where column_name LIKE pattern;
+example:
+select * from employees where First_Name LIKE 'A%' ;
+
+----------------------------------------------------
+
+NOT LIKE operator:
+
+not operator finds records where values doesn't match to a specific pattern.
+
+select column_names from table_name where column_name NOT LIKE pattern;
+example:
+select * from employees where First_Name NOT LIKE 'A%' ;
+
+--------------------
+select * from employees where First_Name LIKE '%\_%' escape '\' ;
+
+In this condition '%/_%' are use for looking any for any first name that contains ___ character.
+
+escape \
+
+It tell sql how to treat escape character backslash '\' indicate before the under score indicate that we want to match 
+underscore character meaning any single character. it will show all employees contains actuatual '__' character in any position 
+within the name.
+--------------
+
+NUll:
+
+NULL values are undifiend, unknown, unpredicteble any operation perform on null values result is null.
+
+BOth use filter records based on whether a column contains null value or not.
+
+IS NULL:
+
+IS Null operator use to find records whether the values in specific column as NULL values.
+
+example:
+select * from employees where commission_pct IS NULL;
+
+This query will return all emplyees whose commission_pct column contains null values indicating they are not applicable for commission.
+
+IS NOT NULL:
+
+IS NOT operator use to fileter records column has any values either than NULL.
+
+example:
+select * from employees where commission_pct IS NOT NULL;
+
+This query will return all emplyees whose commission_pct column contains valid values ecept null.
+
+---------------------------------------------
+
+Order BY:
+
+ORDER BY use to sorting the columns in accending or decending order. by default it sorts in accending order.
+
+Select column_name from table_name Order By Column_name asc/desc;
+
+asc = sorting the values in assending order.
+
+desc = sorting the values in decending.
+
+example:
+select * from employees order by first_name asc;
+
+This query shows all the employees whose first name arrange in accending order or alphabaticle order.
+
+
+select * from employees ORDER BY deparment_id, commission_pct desc;
+
+this query return all the value of  according to  deparment_id  where it will be accending order then commission_pct will sorted in desending order.
+if their is NULL it will come first for desc;
+if their is NULL it will come last for desc;
