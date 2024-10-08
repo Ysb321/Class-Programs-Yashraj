@@ -1,3 +1,13 @@
+select * from employees where commission_pct is NULL;  // for getting null values
+select * from employees where commission_pct is NOT NULL; // for getting not null values or where values are present
+select *from employees order by department_id, first_name desc; // shorted first_name in decending order according to deparment_id in assending order 
+select *from employees where first_name LIKE 'S%'; // showing employees name start with S.
+select *from employees where first_name NOT LIKE 'S%'; // showing employees name other than start with S.
+select * from employees where Salary BETWEEN 12000 AND 18000; // show salary of employees between 12000 to 18000 including 12000 and 18000
+select * from employees where Salary NOT BETWEEN 12000 AND 18000; // show salary of employees less than 12000 and more than 18000 not including 12000 and 18000.
+
+
+
 BETWEEN oprators:
 between allow you to select a recoards where two values falls within the specified range.
 
