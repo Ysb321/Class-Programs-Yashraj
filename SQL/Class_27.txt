@@ -1,0 +1,30 @@
+select -7, asc(-7) from employees;
+update t4 set salary = -2000 where department_id = 60;
+select -2000, abs(-2000) from t4;
+select floor(7.00), ceil(7.00), floor(7.50), floor(7.99) from dual;
+select floor(7.01), floor(7.05), floor(7.50), floor(7.99) from dual;
+select ceil(7.01), ceil(7.05), ceil(7.50), ceil(7.99) from dual;
+select Round(7.08), Round(7.49), Round(7.50) , Round(7.99) from dual;
+select round(50.4953523, 1) from dual; // 50.5
+select round(459.7953523, -2) from dual; // 500
+select round(50.5953523, -1) from dual; // 50
+select round(449.2953523, -3) from dual; // 0
+
+functions in sql
+
+1. single row function
+
+a. Numeric function.
+  abs(), ceil(), floor(), round()
+
+b. character function
+  substr(), Instr(), LPAD(), RPAD(),length(), initcap(), upper(), Lower().
+
+c. Date Function.
+   sysdate, Nextday(), Lastday(), Months_between()
+
+d. Conversion Function
+ To_char(), To_date()
+
+e.NUll Value functions.
+
