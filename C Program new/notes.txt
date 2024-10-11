@@ -1,0 +1,23 @@
+Array:
+An array is a data structure that stores a fixed-size sequence of elements of the same type in a contiguous block of memory.
+Key Points:
+Fixed Size: The size of the array is defined at the time of creation and cannot be changed.
+Homogeneous Elements: All elements must be of the same data type (e.g., integers, floats, characters).
+Indexed Access: Elements are accessed using their index, which typically starts at 0.
+Contiguous Memory Allocation: Elements are stored in consecutive memory locations.
+
+Functions:
+A function is a reusable block of code that performs a specific task or set of tasks. Functions are a fundamental concept in programming, allowing developers to encapsulate code for easier maintenance, readability, and reusability.
+
+Key Characteristics of Functions
+Modularity: Functions enable programmers to break down complex problems into smaller, manageable parts. Each function can handle a specific task, making the code more organized.
+
+Reusability: Once a function is defined, it can be reused multiple times within a program or even across different programs without rewriting the code.
+
+Abstraction: Functions allow programmers to hide complex implementation details. Users of the function need only know how to call it and what parameters it requires, not how it works internally.
+
+Parameters and Arguments:
+
+Parameters: Variables that are defined in the function signature to receive values when the function is called.
+Arguments: The actual values passed to the function when it is called.
+Return Value: Functions can return a value back to the caller using the return statement. If a function doesn’t return a value, it is often referred to as a "void" function.

@@ -11,7 +11,7 @@ int main()
     printf("Enter a String:\n");
     gets(str); // if string contains space
 
-   len = stringlength(str);
+    len = stringlength(str);
     printf("Length of string is %d", len);
     return 0;
 }
@@ -19,9 +19,9 @@ int main()
 int stringlength(char *ptr)
 {
     int i;
-    for(i=0; ptr[i]!='\0'; )
+    for(i=0; ptr[i]!='\0';)
     {
-        i++;
+     i++;
     }
     return i;
 }
