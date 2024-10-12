@@ -15,9 +15,9 @@ select * from employees where HIRE_DATE > '01-JAN-03';
 select * from employees where department_id = 60 and salary > 5000;
 select * from employees where deparment_id = 60 and commission_pct > 0.2;
 select * from employees where department_id != 90;
-select *from employees where (department_id = 60 and salary > 5000) or department_id = 50;
-select *from employees where commission_pct is null;
-select *from employees where commission_pct is not null;
+select * from employees where (department_id = 60 and salary > 5000) or department_id = 50;
+select * from employees where commission_pct is not null;
+select * from employees where commission_pct is  null;
 
 select * from employees where department_id in(30,50,80);
 select * from employees where department_id not in(30, 50, 80);
