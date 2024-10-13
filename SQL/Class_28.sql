@@ -26,9 +26,9 @@ SELECT instr('Rubber is rubber', 'r', -2, 2) from dual;  -- it will show second 
 
 select instr(first_name, 'e', 3) from EMPLOYEES;
 
-select instr(first_name, 'e', 3), first_name from EMPLOYEES;
+select instr(first_name, 'e'), first_name from EMPLOYEES;
 
 select first_name from employees where instr(first_name, 'e') = 3; -- show all the first name where 'e' present at 3rd position.
 
-select first_name from employees where instr(first_name, 'e', -1, 2) = 3;
+select first_name from employees where instr(first_name, 'e', -1, 2) = 3; -- 2 is numbers of 'e' in first_name and 3 is position of 'e'and -1 is from first letter from right end. 
 
