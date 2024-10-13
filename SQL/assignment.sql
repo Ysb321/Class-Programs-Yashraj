@@ -36,7 +36,7 @@ select * from employees where commission_pct is NULL or commission_pct > 0.2;
 select * from employees where salary between 3000 and 7000 or department_id = 90;
 select * from employees where department_id = 50 and salary not between 4000 and 8000;
 select * from employees where first_name like 'J%' and first_name like '%n';
-select * from employees where length(job_id) = 5 and job_id like '_\A%';
+select * from employees where length(job_id) = 5 and job_id like '_\A%' escape '\';
 select * from employees where last_name like 'C%' or last_name like 'D%' or last_name like 'E%' or last_name like 'F%';  
 select * from employees where department_id in(10,20,30);
 select * from employees where job_id not in('IT_PROG','SA_REP','AD_PRES');
