@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<string.h>
 char* stringReverse(char*);
 int main()
 {
@@ -16,11 +17,9 @@ char* stringReverse(char* ptr1)
 {
     int i;
     char temp;
-    int len =0;
-    for(; ptr1[len]!='\0';)
-    {
-        len++;
-    }
+    int len;
+    
+    len = strlen(ptr1);
 
    for(i=0; i<=len/2; i++)
     {

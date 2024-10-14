@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<string.h>
 char* stringConcat(char*, char*);
 
 int main()
@@ -19,15 +20,11 @@ int main()
 
 char* stringConcat(char* ptr1, char* ptr2)
 {
-    int i, len = 0;
-    for(i=0; ptr1[i]!='\0';)
-    {   
-        len = i;
-        i++;
-    }
+    int len,i;
+    len = strlen(ptr1);
     for(i=0; ptr2[i]!='\0'; i++)
     {
-        ptr1[len+1 + i] = ptr2[i];
+        ptr1[len + i] = ptr2[i];
     }
      return ptr1;
 }
