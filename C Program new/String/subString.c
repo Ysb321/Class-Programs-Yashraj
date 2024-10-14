@@ -37,7 +37,17 @@ void wordSplit(char* ptr1, char* ptr2)
         found = 0;
         for (k = 0; k <= j - len2; k++)
         {
-            if (strncmp(&word[k], ptr2, len2) == 0)
+            int l;
+            int match = 1;
+            for (l = 0; l < len2; l++)
+            {
+                if (word[k + l] != ptr2[l])
+                {
+                    match = 0;
+                    break;
+                }
+            }
+            if (match)
             {
                 found = 1;
                 break;
