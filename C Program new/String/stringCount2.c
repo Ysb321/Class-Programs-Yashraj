@@ -21,7 +21,7 @@ void wordSplit(char* ptr1, char* ptr2)
     char word[50];
     int i,j;
 
-    for(i=0; ptr1!='\0'; i++)
+    for(i=0; ptr1[i]!='\0'; i++)
     {
         for(j=0 ; ptr1[i]!=' ' && ptr1[i]!='\0' ; i++)
         {
@@ -34,11 +34,6 @@ void wordSplit(char* ptr1, char* ptr2)
         {
             printf("Word '%s' in str1 matches with str2.\n",word);
         } 
-
-        if (ptr1[i] == '\0')
-        {
-            break;
-        }
     }
 
     

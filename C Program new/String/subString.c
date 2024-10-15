@@ -14,6 +14,8 @@ int main()
     gets(str2);
 
     wordSplit(str1, str2);
+
+    return 0;
 }
 
 void wordSplit(char* ptr1, char* ptr2)
