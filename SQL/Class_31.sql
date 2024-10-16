@@ -134,7 +134,7 @@ alter table customers modify Name varchar(25);
 alter table customers modify Email varchar(35);
 alter table customers modify Address varchar(35);
 
-alter table customers modify Name varchar(25);
+alter table customers modify AccountID varchar(25);
 alter table customers modify Email varchar(35);
 alter table customers modify Address varchar(35);
 
