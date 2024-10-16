@@ -6,7 +6,7 @@ int main()
     scanf("%c", &name1);
     
     printf("Enter a Second Name: \n");
-    fflush(stdin);
+    fflush(stdin); // for clearing buffer chache 
     scanf("%c", &name2);
 
     printf("First name: %c\n", name1);
