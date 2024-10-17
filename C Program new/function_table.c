@@ -3,7 +3,8 @@
 int num_table(int num)
 {
     int table;
-    for(int i=1; i<=10; i++)
+    int i;
+    for(i=1; i<=10; i++)
     {
         table = num * i;
         printf("%d X %d = %d\n", num, i, table);
