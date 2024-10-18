@@ -21,3 +21,7 @@ Parameters and Arguments:
 Parameters: Variables that are defined in the function signature to receive values when the function is called.
 Arguments: The actual values passed to the function when it is called.
 Return Value: Functions can return a value back to the caller using the return statement. If a function doesn’t return a value, it is often referred to as a "void" function.
+
+String:
+
+string is defined as a contiguous sequence of characters terminated by a null character ('\0').
