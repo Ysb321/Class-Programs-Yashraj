@@ -17,3 +17,4 @@ select EMPLOYEE_ID, first_name, HIRE_DATE, round((months_between(sysdate, hire_d
 select EMPLOYEE_ID, first_name, HIRE_DATE, round((months_between(sysdate, hire_date))/12) as Total_years from employees where (round((months_between(sysdate, hire_date))/12) > 20) order by Total_years desc;
 
 select EMPLOYEE_ID, first_name, HIRE_DATE, salary, department_id, round((months_between(sysdate, hire_date))/12) as Total_years from employees where round((months_between(sysdate, hire_date))/12) > 20 and (salary>18000) and (department_id  in(60,70,80,90)) order by Total_years ;
+
