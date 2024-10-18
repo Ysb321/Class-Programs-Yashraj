@@ -6,7 +6,7 @@ int main()
      c = 30;
      c=50;
      c=100;
-    int ptr = &b;
+    int *ptr = &b;
     printf("\nEnter any two numbers\n");
     scanf("%d%d", &a,&b);
     printf("\na = %d \nb = %d", a, b);
