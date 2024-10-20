@@ -9,7 +9,6 @@ int main()
 
     gets(str1);
     gets(str2);
-    
     for (i = 0; str1[i] != '\0'; i++)
     {
         if (str1[i] == str2[0])
