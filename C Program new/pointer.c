@@ -13,5 +13,4 @@ int main()
      ptr1 = &ptr;
     // scanf("%d", &**ptr1);
     printf("%d", *ptr);
-
 }

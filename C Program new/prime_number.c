@@ -1,19 +1,34 @@
 #include <stdio.h>
 int main()
 {
-    int num, i;
+    int num, i, flag = 0;
     printf("Enter a number: ");
     scanf("%d", &num);
-
-        for(i=2; i<=num/2; i++)
+    if (num==1 || num==0)
+    {
+        printf("This is not a prime number.");
+    }
+    else
+    {
+        for (i = 2; i <= num / 2; i++)
         {
-            if(num%i==0)
+            if (num % i == 0)
             {
-                printf("This is not a prime number.");
-                return 0;
-            }else{
-                printf("This is a prime number.");
-                return 0;
+                flag = 1;
+            }
+            else
+            {
+                flag = 0;
             }
         }
+
+        if (flag == 1)
+        {
+            printf("This is not a prime number.");
+        }
+        else
+        {
+            printf("This is a prime number.");
+        }
+    }
 }
