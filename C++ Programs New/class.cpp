@@ -8,7 +8,7 @@ class Person
     int age;
 
     public:
-    void setData(const char* name, int age)
+    void setData(char* name, int age)
     {
         this->age = age;
         strcpy(this->name, name);
