@@ -23,7 +23,13 @@ class Person
 
 int main()
 {
-    Person P;
-    P.setData("ABC", 12);
-    P.display();
+    Person p;
+    char name[20];
+    int age;
+    printf("Enter a Name of Person: ");
+    gets(name);
+    printf("Enter a Age of Person: ");
+    scanf("%d", &age);
+    p.setData(name, age);
+    p.display();
 }
