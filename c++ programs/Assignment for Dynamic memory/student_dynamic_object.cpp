@@ -11,10 +11,16 @@ class Student
     public:
     Student()
     {
-        this -> rollNo = new int(5);
-        this -> percentage = new float(88.7);
-        this -> name = new char[8];
-        strcpy(this -> name, "Yashraj");
+        // this -> rollNo = new int(5);
+        // this -> percentage = new float(88.7);
+        // this -> name = new char[8];
+        // strcpy(this -> name, "Yashraj");
+        rollNo = new int;
+        *rollNo = 5;
+         percentage = new float;
+        *percentage = 45.7;
+        name = new char;
+        strcpy(name, "yashtah");
     }
 
     Student(int rollNo, char* name, float percentage)

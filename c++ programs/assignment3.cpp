@@ -68,7 +68,7 @@ class Time
 
 int main(){
     Time t1(10, 20, 30);
-    Time t2(1, 40, 40);
+    Time t2(1, 50, 40);
     Time t3;
     t3 = t1.addTime(t2);
     t3.display();
