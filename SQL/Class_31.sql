@@ -44,6 +44,7 @@ CREATE TABLE Accounts (
  AccountType VARCHAR(20) NOT NULL,
  Balance DECIMAL(10, 2) DEFAULT 0 CHECK (Balance >= 0),
  FOREIGN KEY (CustomerID) REFERENCES Customers(CustomerID) );
+ 
 INSERT INTO Accounts (AccountID, CustomerID, AccountType, Balance)
 VALUES (1, 1, 'Savings', 1500.00);
 

@@ -38,4 +38,7 @@ select '15-AUG-2000', to_char(to_date('15-AUG-2000', 'DD-MON-YYYY'), 'DDsp') as 
 select '15-AUG-2000', to_char(to_date('15-AUG-2000', 'DD-MON-YYYY'), 'DDth') as DAY from dual;
 select '15-AUG-2000', to_char(to_date('15-AUG-2000', 'DD-MON-YYYY'), 'YEAR') as DAY from dual;
 select '15-AUG-2000', to_char(to_date('15-AUG-2000', 'DD-MON-YYYY'), 'd') as DAY from dual;
-select '15-AUG-2000', to_char(to_date('15-AUG-2000', 'DD-MON-YYYY'), 'Dsp') as DAY from dual;
+select '15-AUG-2000', to_char(to_date('15-AUG-2000', 'DD-MON-YYYY'), 'DAY') as DAY from dual;
+
+select  to_date('2000/10/22', 'yyyy/mm/dd') as DAY from dual; -- it will show original format.
+select to_char()
