@@ -23,6 +23,12 @@ class Student
         this-> rollNum= new int;
         *(this->rollNum) = rollNum; 
     }
+    Student(Student & k)
+    {
+        cout<<"Copy Constructor"<<endl;
+        *(this->rollNum) = *k.rollNum;
+        strcpy(this->name, k.name);
+    }
     ~Student()
     {
         cout<<"This is destructor";
@@ -49,5 +55,8 @@ int main()
     Student* ptr2;
     ptr2= new Student(name, rollNum);
     ptr2->display();
+    Student* ptr3;
+    ptr3 = new Student(*ptr2);
+    ptr3->display();
     return 0;
 }
