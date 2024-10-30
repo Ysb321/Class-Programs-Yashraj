@@ -43,19 +43,22 @@ public:
         age = 0;
         address = "NO Address";
     } 
-    void setData(char* name, int age, char* address) {
+    int setData(char* name, int age, char* address) {
+        int flag = 0;
         if (isValidName(name)) {
             int len = strlen(name);
             this -> name = new char[len+1];
             strcpy(this->name,name);
         } else {
             cout << "Invalid name. Only letters and spaces are allowed."<<endl;
+            flag=1;
         }
 
         if (isValidAge(age)) {
             this->age = age;
         } else {
             cout << "Invalid age. Age should be between 1 and 100."<<endl;
+            flag=2;
         }
 
         if (isValidAddress(address)) {
@@ -64,7 +67,59 @@ public:
             strcpy(this->address,address);
         } else {
             cout << "Invalid address. Symbols are not allowed."<<endl;
+            flag=3;
         }
+        return flag;
+    }
+
+    void setName(char* name)
+    {
+        if(isValidName(name))
+        {
+            int len = strlen(name);
+            this -> name = new char[len+1];
+            strcpy(this->name, name); 
+        }else{
+            cout<<"This is not a valid name."<<endl;
+        }
+    }
+
+    void setAddress(char* address)
+    {
+        if(isValidAddress(address))
+        {
+            int len = strlen(address);
+            this -> address = new char[len+1];
+            strcpy(this->address, address); 
+        }else{
+            cout<<"This is not a valid address."<<endl;
+        }
+    }
+
+    void setAge(int age)
+    {
+        if(isValidAge(age))
+        {
+            this -> age = age; 
+        }else{
+            cout<<"This is not a valid age."<<endl;
+        }
+    }
+    
+
+    char* getName()
+    {
+        return name;
+    }
+
+    int getAge()
+    {
+        return age;
+    }
+
+    char* getAdress()
+    {
+        return address;
     }
 
     void display() {
@@ -88,7 +143,30 @@ int main() {
     gets(address);
 
     Person P;
-    P.setData(name, age, address);
+
+    switch(P.setData(name, age, address))
+    {
+        case 1:
+          cout<<"Enter a New Name"<<endl;
+          gets(name);
+          P.setName(name);
+          break;
+        case 2:
+          cout<<"Enter a New Age"<<endl;
+          cin>>age;
+          P.setAge(age);
+          break;
+        case 3:
+          cout<<"Enter a New Address"<<endl;
+          fflush(stdin);
+          gets(address);
+          P.setAddress(address);
+          break;
+        default:
+          P.setData(name, age, address);
+          break;
+    }
+    
     P.display();
     return 0;
 }
