@@ -44,7 +44,7 @@ class C: public A, public B{
 
     public:
     C(){
-        c =0;
+        c = 0;
     }
     C(int a, int b, int c): B(b), A(a) // This can be interchange
     {
