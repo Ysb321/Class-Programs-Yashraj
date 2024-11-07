@@ -14,7 +14,7 @@ class A{
         this -> a = a;
     }
 
-    void displayA()
+    void display()
     {
         cout<<"A = "<<a<<endl;
     }
@@ -32,7 +32,7 @@ class B{
         this -> b = b;
     }
 
-    void displayB()
+    void display()
     {
         cout<<"B = "<<b<<endl;
     }
@@ -51,10 +51,10 @@ class C: public A, public B{
         this -> c = c;
     }
 
-    void displayC()
+    void display()
     {
-        A::displayA(); //for calling display function on A
-        B::displayB();
+        A::display(); //for calling display function on A
+        B::display();
         cout<<"C ="<<c<<endl;
         cout<<"Addition = "<<a+b+c<<endl;
     }
@@ -62,17 +62,17 @@ class C: public A, public B{
 
 int main()
 {
-    A obj;
-    obj.displayA();
+    // A obj;
+    // obj.display();
 
-    A obj1(20);
-    obj1.displayA();
+    // A obj1(20);
+    // obj1.display();
 
-    B obj2(40);
-    obj2.displayB();
+    // B obj2(40);
+    // obj2.display();
 
     C obj4(10,10,30);
-    obj4.displayC();
+    obj4.display();
 }
 
 

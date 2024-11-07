@@ -15,7 +15,7 @@ class A
         this -> a = a;
     }
 
-    void displayA()
+    void display()
     {
         cout<<"This is A"<<endl;
         cout<<"A = "<<a<<endl;
@@ -36,7 +36,7 @@ class B: virtual public A // virtual is use to fixing diamond ring problem ,
         this -> b = b;
     }
 
-    void displayB()
+    void display()
     {
         cout<<"This is B"<<endl;
         cout<<"B = "<<b<<endl;
@@ -55,7 +55,7 @@ class C: public virtual A // virtual can be interchange between public
         this -> c = c;
     }
 
-    void displayC()
+    void display()
     {
         cout<<"This is C"<<endl;
         cout<<"C = "<<c<<endl;
@@ -76,12 +76,12 @@ class D: public B, public C
         this -> d = d;
     }
 
-    void displayD()
+    void display()
     {
         cout<<"This is D"<<endl;
-        A::displayA(); //for calling display function on A
-        B::displayB();
-        C::displayC();
+        A::display(); //for calling display function on A
+        B::display();
+        C::display();
         // cout<<"C ="<<c<<endl;
         cout<<"D: "<<d<<endl;
         cout<<"Addition = "<<a+b+c+d<<endl;
@@ -91,7 +91,7 @@ class D: public B, public C
 int main()
 {
     D obj4(10,15,30, 20);
-    obj4.displayD();
+    obj4.display();
 }
 
 
