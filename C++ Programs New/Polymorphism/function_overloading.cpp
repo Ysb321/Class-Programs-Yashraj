@@ -2,6 +2,7 @@
 using namespace std;
 
 // method or function overloading
+// Function Overloading: Functions with the same name but different parameters.
 class A{
     protected:
     int a;
