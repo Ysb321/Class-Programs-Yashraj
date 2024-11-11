@@ -2,7 +2,7 @@ alter session set nls_date_format = 'DD-MM-YYYY'; -- Nationalize Language Suppor
 
 select * from employees;
 
-select months_between('21-NOV-2008','23-APR-2007') from dual;
+select months_between('21-NOV-2009','23-APR-2007') from dual; -- show number of moths between to dates
 
 select round(months_between('21-NOV-2008','23-APR-2007')) from dual;
 
