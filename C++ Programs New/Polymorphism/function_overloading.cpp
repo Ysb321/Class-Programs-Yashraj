@@ -33,7 +33,7 @@ class B: public A{
         this -> b = b;
     }
 
-    void display(int prefix) // one argument 
+    void display(int prefix) // one argument, this is overloading
     {
         cout<<prefix<<" "<<a<<endl;
     }
@@ -41,7 +41,6 @@ class B: public A{
 
 int main()
 {
-
     B obj4(10,30);
     obj4.display(12);
     obj4.A::display();
