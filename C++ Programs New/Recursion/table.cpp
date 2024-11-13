@@ -3,35 +3,29 @@ using namespace std;
 
 class Recursion
 {
+    int i;
     public:
     
     Recursion() {
-
+        i = 1;
     }
 
    
-    void multiply(int x, int i, int limit)
+    void multiply(int x, int limit)
     {
-        if(i > limit)
-        {
-            return; 
-        }
-        else
+        if(i <= limit)
         {
             cout << x << " * " << i << " = " << x * i << endl; 
-            multiply(x, i + 1, limit); 
+            i++;
+            multiply(x, limit); 
         }
     }
 
-    void printTable(int x, int limit)
-    {
-        multiply(x, 1, limit);
-    }
 };
 
 int main()
 {
     Recursion obj;
-    obj.printTable(2, 10); 
+    obj.multiply(2, 10); 
     return 0;
 }

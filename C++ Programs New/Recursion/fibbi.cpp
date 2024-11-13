@@ -11,11 +11,11 @@ class Recursion
 
     int Fibbi(int num)
     {
-        if(num<=1)
+        if(num>1)
         {
-            return num;
-        }else{
             return Fibbi(num - 1) + Fibbi(num - 2);
+        }else{
+            return num;
         }
         
     }
@@ -35,3 +35,5 @@ int main()
     obj.printFibbiSeries(5);
     return 0;
 }
+
+
