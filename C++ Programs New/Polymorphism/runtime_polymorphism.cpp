@@ -8,7 +8,7 @@ class Base
     public:
 virtual void display() // when virtual use in class that class will be polymorphic class.
     {
-        cout<<"Hello"<<endl;
+        cout<<"Base"<<endl;
     }
 
     void someFun()
@@ -23,7 +23,7 @@ class Derived: public Base
     public:
     void display()
     {
-        cout<<"World"<<endl;
+        cout<<"Derived"<<endl;
     }
 
     void someFunDerived()
@@ -42,7 +42,7 @@ int main()
 
     Base* ptr;
     Derived obj;
-    ptr = &obj; // Now this line will read because of virtual is used in base class
+    ptr = &obj; // address of obj will return to pointer ptr. Now this line will read because of virtual is used in base class
     ptr -> display();
     ptr -> someFun();
 }

@@ -1,5 +1,5 @@
--- 1. group function/ multi rows function (single input single output)
--- 2. single row funtion / scalar function (multiple inputs then  multiple outputs)
+-- 1. group function/ multi rows function (single input single output, multiple inplut then multiple output)
+-- 2. single row funtion / scalar function (multiple inputs then single outputs)
 
 select max(null), min('*') from dual;
 

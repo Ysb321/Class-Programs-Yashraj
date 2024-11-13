@@ -53,7 +53,7 @@ class C: public A, public B{
 
     void display()
     {
-        A::display(); //for calling display function on A
+        A::display(); //for calling display function on A, :: this is scope resolution
         B::display();
         cout<<"C ="<<c<<endl;
         cout<<"Addition = "<<a+b+c<<endl;

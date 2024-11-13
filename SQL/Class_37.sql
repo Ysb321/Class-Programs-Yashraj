@@ -24,5 +24,5 @@ select count(0) from EMPLOYEES; --  0 can be count so it will count all rows.
 select count(NULL) from EMPLOYEES; -- 0
 select max(salary), min(salary) from employees;
 select max(hire_date), min(hire_date) from employees;
-select max(FIRST_NAME) from EMPLOYEES; -- min macx use in character datatype coloum.
+select max(FIRST_NAME) from EMPLOYEES; -- min max use in character datatype coloum.
 
