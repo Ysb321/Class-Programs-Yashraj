@@ -6,12 +6,7 @@ class StringRev {
 
 
     public:
-    char* stringReverse(char* str) {
-        int len = strlen(str);
-
-        return stringRev(str, 0, len- 1);
-    }
-
+    
     char* stringRev(char* str, int start, int end)
     {
         if (start >= end) {
@@ -21,6 +16,12 @@ class StringRev {
         str[start] = str[end];
         str[end] = temp;
         return stringRev(str, start+1, end-1);
+    }
+
+    char* stringReverse(char* str) {
+        int len = strlen(str);
+
+        return stringRev(str, 0, len- 1);
     }
     
 };
