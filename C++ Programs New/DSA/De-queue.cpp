@@ -1,7 +1,8 @@
 #include<iostream>
 using namespace std;
 
-class deQueue
+//
+class DeQueue
 {
     int arr[5];
     int rear;
@@ -30,7 +31,7 @@ class deQueue
         }
     }
     public:
-    deQueue()
+    DeQueue()
     {
         front = 0;
         rear = 0;
@@ -122,7 +123,7 @@ class deQueue
 
 int main()
 {
-    deQueue obj;
+    DeQueue obj;
     int num;
     int num2;
     char choice;
