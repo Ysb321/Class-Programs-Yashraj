@@ -21,6 +21,8 @@ Insert Into person(PId) values(13);
 
 Alter table person modify (name varchar(10) NOT NULL);
 
+-- update table_name set column_name = value where condition
+
 update employees set last_name = 'De_Haan' where employee_id = 102;
 
 update employees set last_name = 'De_Haan'; -- it will update all rows values of last_name column

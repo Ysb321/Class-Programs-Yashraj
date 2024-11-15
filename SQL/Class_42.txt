@@ -1,0 +1,42 @@
+DDL
+
+1.Explain the purpose of create command in sql?
+--> create command new database objects. example table, index, views , procedure, trigger, packages.
+
+2.What is Alter command or how ALter command is use give example?
+--> Alter command is use to modify exiting objects in database objects or can modify table structure like  add column, remove column,
+    add constraints, remove constraints, example: Alter table table_name add column column_name datype.
+
+3.What is drop command in sql?
+--> drop command is use to remove database objects like table, index, views, procedure, trigger, packages.
+
+4.What is Truncate command in sql?
+--> Truncate delete all the data in table, do not generate undo data or log so it is faster it cannot do undo or rollback, delete remove rows one by one can be rollback if require. truncate commands do not fires triggers whereas delete fire trigger
+
+5. What is rename command in sql?
+--> Rename command use to change database objects not the views. example Rename old_table_name to new_table_name.
+    Alter table table_name rename column old_column_name to new_column_name 
+
+6. what is difference between char and verchar?
+--> Varchar is use for variable length string and save space because it only uses as much as space is needed.
+    Char is fixed length string so it uses extra space if the string is shorter than its maximum length.
+
+7.
+
+8. how do you remove column from table?
+--> Alter table table_name drop column column_name;
+
+9. How would you change datatype of column?
+--> Alter table table_name modify column column_name datatype ; datatype should be same datatype family.
+
+10. How to increase size of datatype in column?
+--> Alter table table_name modify column column_name datatype[new_size];
+
+11. when sould we use truncate or delete?
+--> when we want to delete perticular row then we use delete query.
+
+12. do truncate affect structure of data?
+--> NO. truncate only remove data from table permanently, leaving the table structure column, constraints as it is.
+
+13. if table is reference by foreign key then can we truncate the table?
+--> No. turncate cannot be apply on table if it is present.
