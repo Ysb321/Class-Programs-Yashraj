@@ -1,7 +1,9 @@
 #include<iostream>
 using namespace std;
 
-class deQueue
+//Linear Queue follows FIFO manner 
+// insertion take place at rear and deletion take place from front only
+class LinearQueue
 {
     int arr[5];
     int rear;
@@ -30,7 +32,7 @@ class deQueue
         }
     }
     public:
-    deQueue()
+    LinearQueue()
     {
         front = 0;
         rear = 0;
@@ -83,7 +85,7 @@ class deQueue
 
 int main()
 {
-    deQueue obj;
+    LinearQueue obj;
     int num;
     int num2;
     char choice;

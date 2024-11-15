@@ -1,7 +1,8 @@
 #include<iostream>
 using namespace std;
 
-//
+//De-Queue is double Ended Queue in this queue follow LILO or FIFO pattern
+// deletion and insertion will take place both end front and rear
 class DeQueue
 {
     int arr[5];

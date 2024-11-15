@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 
+//Stack is the collection of data in LIFO pattern
 class Stack
 {
     int arr[5];

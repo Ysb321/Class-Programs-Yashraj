@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-// In a Cicular Queue start and end of queue are attach to each other then it make circle
+// In a Cicular Queue start and end of queue are attach to each other then it make circle. This Queue Follow FIFO
 
 class CircularQueue{
     int arr[5], front, rear, count;
