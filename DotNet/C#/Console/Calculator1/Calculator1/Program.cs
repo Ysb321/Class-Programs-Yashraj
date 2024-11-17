@@ -8,7 +8,7 @@ namespace Calculator1
 {
     internal class Program
     {
-        static void Main(string[] args) // Main is Startup is
+        static void Main(string[] args) // Main is Startup function
         {
             Arithmatic arithmaticObj = new Arithmatic();
             int addition = arithmaticObj.Add(12,22);
