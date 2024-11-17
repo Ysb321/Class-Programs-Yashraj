@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DotNet\\C#\\Console\\Calculator1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0ED746FE-CDEE-4FF8-BC71-EF595306D528}|Calculator1\\Calculator1.csproj|d:\\dotnet\\c#\\console\\calculator1\\calculator1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ED746FE-CDEE-4FF8-BC71-EF595306D528}|Calculator1\\Calculator1.csproj|solutionrelative:calculator1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ED746FE-CDEE-4FF8-BC71-EF595306D528}|Calculator1\\Calculator1.csproj|d:\\dotnet\\c#\\console\\calculator1\\calculator1\\arithmatic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ED746FE-CDEE-4FF8-BC71-EF595306D528}|Calculator1\\Calculator1.csproj|solutionrelative:calculator1\\arithmatic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ED746FE-CDEE-4FF8-BC71-EF595306D528}|Calculator1\\Calculator1.csproj|d:\\dotnet\\c#\\console\\calculator1\\calculator1\\addition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ED746FE-CDEE-4FF8-BC71-EF595306D528}|Calculator1\\Calculator1.csproj|solutionrelative:calculator1\\addition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Arithmatic.cs",
+              "DocumentMoniker": "D:\\DotNet\\C#\\Console\\Calculator1\\Calculator1\\Arithmatic.cs",
+              "RelativeDocumentMoniker": "Calculator1\\Arithmatic.cs",
+              "ToolTip": "D:\\DotNet\\C#\\Console\\Calculator1\\Calculator1\\Arithmatic.cs",
+              "RelativeToolTip": "Calculator1\\Arithmatic.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T12:50:41.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Addition.cs",
+              "DocumentMoniker": "D:\\DotNet\\C#\\Console\\Calculator1\\Calculator1\\Addition.cs",
+              "RelativeDocumentMoniker": "Calculator1\\Addition.cs",
+              "ToolTip": "D:\\DotNet\\C#\\Console\\Calculator1\\Calculator1\\Addition.cs",
+              "RelativeToolTip": "Calculator1\\Addition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T10:15:18.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNet\\C#\\Console\\Calculator1\\Calculator1\\Program.cs",
+              "RelativeDocumentMoniker": "Calculator1\\Program.cs",
+              "ToolTip": "D:\\DotNet\\C#\\Console\\Calculator1\\Calculator1\\Program.cs",
+              "RelativeToolTip": "Calculator1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:34:58.887Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
