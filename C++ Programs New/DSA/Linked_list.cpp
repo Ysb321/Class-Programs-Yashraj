@@ -7,6 +7,7 @@ class Node
     int data;
 
 public:
+
     Node(int data)
     {
         this->data = data;
@@ -39,9 +40,20 @@ class LinkedList
     Node* head;
 
 public:
+
     LinkedList()
     {
         head = NULL;
+    }
+
+     ~LinkedList()
+    {
+        while (head != NULL)
+        {
+            Node* temp = head;
+            head = head->getNext();
+            delete temp;
+        }
     }
 
     void addStart(int data)
@@ -112,6 +124,74 @@ public:
         }
     }
 
+    void insertBetween(int data, int pos)
+    {
+        if(pos<=0)
+        {
+            cout<<"Invalid position."<<endl;
+            return;
+        }
+        if(pos==1)
+        {
+            addStart(data);
+            return; // return to stop the program, used inside void only
+        }
+         Node* trav = head;
+         int i=0;
+         while(i<pos-1)
+         {
+            if(trav!=NULL)
+            {
+                trav =  trav -> getNext();
+            }else{
+                cout<<"Invalid position"<<endl;
+                return;
+            }
+            i++;
+         }
+            Node* temp = new Node(data);
+            cout<<temp->getData()<< " Inserted between"<<endl;
+            temp-> setNext(trav->getNext());
+            trav -> setNext(temp);
+    }
+
+    void deleteBetween(int pos)
+    {
+        if(pos<=0)
+        {
+            cout<<"Invalid pos"<<endl;
+            return;
+        }
+        if(pos==1)
+        {
+            deleteStart();
+            return;
+        }
+        Node* trav = head;
+        int i;
+        while(i<pos-1)
+        {
+            if(trav!=NULL)
+            {
+                trav=trav->getNext();
+            }else{
+                cout<<"Invalid pos"<<endl;
+                return;
+            }
+            i++;
+        }
+        if(trav->getNext()!=NULL)
+        {
+            Node* temp = trav -> getNext();
+            trav->setNext(temp->getNext());
+            cout<<temp->getData()<<" is deleted"<<endl;
+            delete temp;
+        }else{
+            cout<<"Invalid pos"<<endl;
+        }
+    
+    }
+
     void traverse()
     {
         if (head == NULL)
@@ -126,6 +206,7 @@ public:
                 cout << trav->getData() << endl;
                 trav = trav->getNext();
             }
+               
         }
     }
 };
@@ -136,13 +217,17 @@ int main()
     obj.addStart(23);
     obj.addStart(25);
     obj.addStart(26);
-    obj.deleteEnd();
+    // obj.deleteEnd();
     obj.addStart(29);
     obj.addEnd(22);
     obj.addEnd(24);
-    obj.deleteStart();
+    // obj.deleteStart();
     obj.addStart(27);
+    obj.insertBetween(22, 2);
+    obj.deleteBetween(3);
+    cout<<"++++++"<<endl;
     obj.traverse();
+    cout<<"++++++"<<endl;
 
     return 0;
 }
