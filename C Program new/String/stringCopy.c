@@ -23,6 +23,7 @@ char* stringCopy(char* ptr2, char*ptr1)
     {
         ptr2[i] = ptr1[i];
     }
+    ptr2[i] = '\0';
 
     return ptr2;
 }
