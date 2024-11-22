@@ -1,0 +1,7 @@
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Calculator (user defined operator)\Calculator (user defined operator)\bin\Debug\Calculator (user defined operator).exe.config
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Calculator (user defined operator)\Calculator (user defined operator)\bin\Debug\Calculator (user defined operator).exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Calculator (user defined operator)\Calculator (user defined operator)\bin\Debug\Calculator (user defined operator).pdb
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Calculator (user defined operator)\Calculator (user defined operator)\obj\Debug\Calculator (user defined operator).csproj.AssemblyReference.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Calculator (user defined operator)\Calculator (user defined operator)\obj\Debug\Calculator (user defined operator).csproj.CoreCompileInputs.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Calculator (user defined operator)\Calculator (user defined operator)\obj\Debug\Calculator (user defined operator).exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Calculator (user defined operator)\Calculator (user defined operator)\obj\Debug\Calculator (user defined operator).pdb

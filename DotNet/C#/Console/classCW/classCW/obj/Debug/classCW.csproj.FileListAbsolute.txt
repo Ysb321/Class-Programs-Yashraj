@@ -1,0 +1,6 @@
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\classCW\classCW\bin\Debug\classCW.dll
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\classCW\classCW\bin\Debug\classCW.pdb
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\classCW\classCW\obj\Debug\classCW.csproj.AssemblyReference.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\classCW\classCW\obj\Debug\classCW.csproj.CoreCompileInputs.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\classCW\classCW\obj\Debug\classCW.dll
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\classCW\classCW\obj\Debug\classCW.pdb

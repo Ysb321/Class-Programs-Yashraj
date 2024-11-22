@@ -1,0 +1,10 @@
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Calculator_dll\Calculator_dll\obj\Debug\Calculator_dll.csproj.AssemblyReference.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Calculator_dll\Calculator_dll\obj\Debug\Calculator_dll.csproj.CoreCompileInputs.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Calculator_dll\Calculator_dll\bin\Debug\Calculator_dll.exe.config
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Calculator_dll\Calculator_dll\bin\Debug\Calculator_dll.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Calculator_dll\Calculator_dll\bin\Debug\Calculator_dll.pdb
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Calculator_dll\Calculator_dll\bin\Debug\classCW.dll
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Calculator_dll\Calculator_dll\bin\Debug\classCW.pdb
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Calculator_dll\Calculator_dll\obj\Debug\Calculat.2DDD584E.Up2Date
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Calculator_dll\Calculator_dll\obj\Debug\Calculator_dll.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Calculator_dll\Calculator_dll\obj\Debug\Calculator_dll.pdb

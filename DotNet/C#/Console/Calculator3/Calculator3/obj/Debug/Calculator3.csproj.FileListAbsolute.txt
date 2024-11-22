@@ -1,0 +1,10 @@
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Calculator3\Calculator3\bin\Debug\Calculator3.exe.config
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Calculator3\Calculator3\bin\Debug\Calculator3.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Calculator3\Calculator3\bin\Debug\Calculator3.pdb
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Calculator3\Calculator3\bin\Debug\Calculator.dll
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Calculator3\Calculator3\bin\Debug\Calculator.pdb
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Calculator3\Calculator3\obj\Debug\Calculator3.csproj.AssemblyReference.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Calculator3\Calculator3\obj\Debug\Calculator3.csproj.CoreCompileInputs.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Calculator3\Calculator3\obj\Debug\Calculat.CDFBF275.Up2Date
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Calculator3\Calculator3\obj\Debug\Calculator3.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Calculator3\Calculator3\obj\Debug\Calculator3.pdb

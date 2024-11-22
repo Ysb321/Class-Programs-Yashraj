@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\Calculator(with Functions)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{713C6943-76FF-43AA-8653-7AF2CA1037F8}|Calculator(with Functions)\\Calculator(with Functions).csproj|D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\Calculator(with Functions)\\calculator(with functions)\\arithmatic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{713C6943-76FF-43AA-8653-7AF2CA1037F8}|Calculator(with Functions)\\Calculator(with Functions).csproj|solutionrelative:calculator(with functions)\\arithmatic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713C6943-76FF-43AA-8653-7AF2CA1037F8}|Calculator(with Functions)\\Calculator(with Functions).csproj|d:\\c and cpp\\class-programs-yashraj\\dotnet\\c#\\console\\calculator(with functions)\\calculator(with functions)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{713C6943-76FF-43AA-8653-7AF2CA1037F8}|Calculator(with Functions)\\Calculator(with Functions).csproj|solutionrelative:calculator(with functions)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Arithmatic.cs",
+              "DocumentMoniker": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\Calculator(with Functions)\\Calculator(with Functions)\\Arithmatic.cs",
+              "RelativeDocumentMoniker": "Calculator(with Functions)\\Arithmatic.cs",
+              "ToolTip": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\Calculator(with Functions)\\Calculator(with Functions)\\Arithmatic.cs",
+              "RelativeToolTip": "Calculator(with Functions)\\Arithmatic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T13:26:00.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\Calculator(with Functions)\\Calculator(with Functions)\\Program.cs",
+              "RelativeDocumentMoniker": "Calculator(with Functions)\\Program.cs",
+              "ToolTip": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\Calculator(with Functions)\\Calculator(with Functions)\\Program.cs",
+              "RelativeToolTip": "Calculator(with Functions)\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T13:25:32.718Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
