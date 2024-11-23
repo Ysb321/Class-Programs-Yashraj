@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\Logical Operators\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F166F264-6835-4741-9FB3-034763468655}|Logical Operators\\Logical Operators.csproj|d:\\c and cpp\\class-programs-yashraj\\dotnet\\c#\\console\\logical operators\\logical operators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F166F264-6835-4741-9FB3-034763468655}|Logical Operators\\Logical Operators.csproj|solutionrelative:logical operators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F166F264-6835-4741-9FB3-034763468655}|Logical Operators\\Logical Operators.csproj|D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\Logical Operators\\logical operators\\logical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F166F264-6835-4741-9FB3-034763468655}|Logical Operators\\Logical Operators.csproj|solutionrelative:logical operators\\logical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Logical.cs",
+              "DocumentMoniker": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\Logical Operators\\Logical Operators\\Logical.cs",
+              "RelativeDocumentMoniker": "Logical Operators\\Logical.cs",
+              "ToolTip": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\Logical Operators\\Logical Operators\\Logical.cs",
+              "RelativeToolTip": "Logical Operators\\Logical.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T17:33:35.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\Logical Operators\\Logical Operators\\Program.cs",
+              "RelativeDocumentMoniker": "Logical Operators\\Program.cs",
+              "ToolTip": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\Logical Operators\\Logical Operators\\Program.cs",
+              "RelativeToolTip": "Logical Operators\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T17:31:57.554Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

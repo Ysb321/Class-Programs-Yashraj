@@ -1,0 +1,10 @@
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\testclass2\testclass2\bin\Debug\testclass2.exe.config
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\testclass2\testclass2\bin\Debug\testclass2.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\testclass2\testclass2\bin\Debug\testclass2.pdb
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\testclass2\testclass2\bin\Debug\testclass.dll
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\testclass2\testclass2\bin\Debug\testclass.pdb
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\testclass2\testclass2\obj\Debug\testclass2.csproj.AssemblyReference.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\testclass2\testclass2\obj\Debug\testclass2.csproj.CoreCompileInputs.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\testclass2\testclass2\obj\Debug\testclass2.csproj.Up2Date
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\testclass2\testclass2\obj\Debug\testclass2.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\testclass2\testclass2\obj\Debug\testclass2.pdb

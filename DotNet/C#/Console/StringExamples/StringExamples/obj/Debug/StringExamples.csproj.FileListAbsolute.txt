@@ -1,0 +1,7 @@
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\StringExamples\StringExamples\bin\Debug\StringExamples.exe.config
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\StringExamples\StringExamples\bin\Debug\StringExamples.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\StringExamples\StringExamples\bin\Debug\StringExamples.pdb
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\StringExamples\StringExamples\obj\Debug\StringExamples.csproj.AssemblyReference.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\StringExamples\StringExamples\obj\Debug\StringExamples.csproj.CoreCompileInputs.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\StringExamples\StringExamples\obj\Debug\StringExamples.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\StringExamples\StringExamples\obj\Debug\StringExamples.pdb

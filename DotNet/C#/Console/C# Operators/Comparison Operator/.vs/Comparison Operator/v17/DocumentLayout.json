@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\Comparison Operator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B506DBDD-BF5A-4546-9F9A-564CF94C599C}|Comparison Operator\\Comparison Operator.csproj|d:\\c and cpp\\class-programs-yashraj\\dotnet\\c#\\console\\comparison operator\\comparison operator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B506DBDD-BF5A-4546-9F9A-564CF94C599C}|Comparison Operator\\Comparison Operator.csproj|solutionrelative:comparison operator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B506DBDD-BF5A-4546-9F9A-564CF94C599C}|Comparison Operator\\Comparison Operator.csproj|D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\Comparison Operator\\comparison operator\\compare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B506DBDD-BF5A-4546-9F9A-564CF94C599C}|Comparison Operator\\Comparison Operator.csproj|solutionrelative:comparison operator\\compare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Compare.cs",
+              "DocumentMoniker": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\Comparison Operator\\Comparison Operator\\Compare.cs",
+              "RelativeDocumentMoniker": "Comparison Operator\\Compare.cs",
+              "ToolTip": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\Comparison Operator\\Comparison Operator\\Compare.cs",
+              "RelativeToolTip": "Comparison Operator\\Compare.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T17:26:53.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\Comparison Operator\\Comparison Operator\\Program.cs",
+              "RelativeDocumentMoniker": "Comparison Operator\\Program.cs",
+              "ToolTip": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\Comparison Operator\\Comparison Operator\\Program.cs",
+              "RelativeToolTip": "Comparison Operator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T17:21:58.239Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
