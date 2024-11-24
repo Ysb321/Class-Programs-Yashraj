@@ -12,5 +12,6 @@
         "new": "cpp",
         "typeinfo": "cpp"
     },
-    "dotnet.preferCSharpExtension": true
+    "dotnet.preferCSharpExtension": true,
+    "dotnet.defaultSolution": "disable"
 }
