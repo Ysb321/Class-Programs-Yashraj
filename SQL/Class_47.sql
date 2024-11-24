@@ -1,6 +1,3 @@
- 
- 
- 
  create table dept2(deptno number primary key, dname varchar(20));
 
  create table emp3(empno number primary key, fname varchar(20) NOT NULL, sal number(8,2), deptno number references dept2(deptno) ON DELETE SET NULL); -- on delete set null on foreign key - when we delete a row from  primary key then if that value is use in FOREIGN key then that value in foreign key become null;
