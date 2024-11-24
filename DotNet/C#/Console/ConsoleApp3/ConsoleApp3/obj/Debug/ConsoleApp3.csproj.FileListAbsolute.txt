@@ -1,0 +1,7 @@
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
