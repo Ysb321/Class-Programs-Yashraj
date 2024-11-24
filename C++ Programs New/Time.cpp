@@ -55,8 +55,8 @@ class Time
 int main()
 {
     Time T;
-    Time T1(10, 20, 50);
-    Time T2(1, 50 ,40);
+    Time T1(10, 20, 50); // parameterize Constructor
+    Time T2(1, 50 ,40); 
     Time T3;
     T3 = T1. addTime(T2);
     T3.display();
