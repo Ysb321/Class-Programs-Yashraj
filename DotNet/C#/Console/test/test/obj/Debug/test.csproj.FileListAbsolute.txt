@@ -1,0 +1,7 @@
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\test\test\bin\Debug\test.exe.config
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\test\test\bin\Debug\test.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\test\test\bin\Debug\test.pdb
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\test\test\obj\Debug\test.csproj.AssemblyReference.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\test\test\obj\Debug\test.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\test\test\obj\Debug\test.pdb

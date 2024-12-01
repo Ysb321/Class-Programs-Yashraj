@@ -1,0 +1,6 @@
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\CardDetails\CardDetails\bin\Release\CardDetails.dll
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\CardDetails\CardDetails\bin\Release\CardDetails.pdb
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\CardDetails\CardDetails\obj\Release\CardDetails.csproj.AssemblyReference.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\CardDetails\CardDetails\obj\Release\CardDetails.csproj.CoreCompileInputs.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\CardDetails\CardDetails\obj\Release\CardDetails.dll
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\CardDetails\CardDetails\obj\Release\CardDetails.pdb

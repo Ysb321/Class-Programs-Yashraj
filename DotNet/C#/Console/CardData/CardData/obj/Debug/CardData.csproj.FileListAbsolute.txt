@@ -1,0 +1,10 @@
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\CardData\CardData\obj\Debug\CardData.csproj.AssemblyReference.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\CardData\CardData\obj\Debug\CardData.csproj.CoreCompileInputs.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\CardData\CardData\bin\Debug\CardData.exe.config
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\CardData\CardData\bin\Debug\CardData.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\CardData\CardData\bin\Debug\CardData.pdb
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\CardData\CardData\bin\Debug\CardDetails.dll
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\CardData\CardData\bin\Debug\CardDetails.pdb
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\CardData\CardData\obj\Debug\CardData.csproj.Up2Date
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\CardData\CardData\obj\Debug\CardData.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\CardData\CardData\obj\Debug\CardData.pdb

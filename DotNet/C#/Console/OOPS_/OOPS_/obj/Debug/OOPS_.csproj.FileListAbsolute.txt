@@ -1,0 +1,7 @@
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\OOPS_\OOPS_\bin\Debug\OOPS_.exe.config
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\OOPS_\OOPS_\bin\Debug\OOPS_.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\OOPS_\OOPS_\bin\Debug\OOPS_.pdb
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\OOPS_\OOPS_\obj\Debug\OOPS_.csproj.AssemblyReference.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\OOPS_\OOPS_\obj\Debug\OOPS_.csproj.CoreCompileInputs.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\OOPS_\OOPS_\obj\Debug\OOPS_.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\OOPS_\OOPS_\obj\Debug\OOPS_.pdb

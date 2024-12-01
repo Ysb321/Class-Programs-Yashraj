@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\OOPS_\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4EF26A-B6C7-4FA9-ABF0-E5AC15BCA540}|OOPS_\\OOPS_.csproj|d:\\c and cpp\\class-programs-yashraj\\dotnet\\c#\\console\\oops_\\oops_\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F4EF26A-B6C7-4FA9-ABF0-E5AC15BCA540}|OOPS_\\OOPS_.csproj|solutionrelative:oops_\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4EF26A-B6C7-4FA9-ABF0-E5AC15BCA540}|OOPS_\\OOPS_.csproj|d:\\c and cpp\\class-programs-yashraj\\dotnet\\c#\\console\\oops_\\oops_\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F4EF26A-B6C7-4FA9-ABF0-E5AC15BCA540}|OOPS_\\OOPS_.csproj|solutionrelative:oops_\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\OOPS_\\OOPS_\\Employee.cs",
+              "RelativeDocumentMoniker": "OOPS_\\Employee.cs",
+              "ToolTip": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\OOPS_\\OOPS_\\Employee.cs",
+              "RelativeToolTip": "OOPS_\\Employee.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T08:25:37.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\OOPS_\\OOPS_\\Program.cs",
+              "RelativeDocumentMoniker": "OOPS_\\Program.cs",
+              "ToolTip": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\OOPS_\\OOPS_\\Program.cs",
+              "RelativeToolTip": "OOPS_\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T08:17:59.27Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
