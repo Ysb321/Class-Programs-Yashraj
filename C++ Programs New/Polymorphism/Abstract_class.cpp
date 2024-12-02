@@ -4,6 +4,7 @@ using namespace std;
 
 class Employee
 {
+    protected:
     int eid;
     char name[20];
 
