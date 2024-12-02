@@ -9,3 +9,5 @@ select s.sid, c.cname, count(s.sid) NS from Course c Inner Join enrollment e ON(
 
 select s.sid, e.cid, count(*) NS from Course c Inner Join enrollment e ON(c.cid = e.cid) INNER JOIN Student3 s ON(s.sid = e.sid) Group by e.
 cid, s.sid;
+
+ALTER TABLE table_name DROP PRIMARY KEY; -- to remove primary key from table
