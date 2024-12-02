@@ -24,3 +24,4 @@ select employee_id, first_name, salary, departments.department_id, department_na
 select locations.city, Countries.Country_Name, count(*) as staff, SUM(employees.salary) as total_salary from departments INNER JOIN employees  on(departments.department_id = employees.department_id) INNER JOIN locations on(Locations.Location_id = departments.Location_id) INNER JOIN Countries on(Countries.Country_id = Locations.Country_id) group by locations.city, countries.country_name;
 
 select locations.city, Countries.Country_Name, count(*) as staff, SUM(employees.salary) as total_salary from departments INNER JOIN employees  on(departments.department_id = employees.department_id) INNER JOIN locations on(Locations.Location_id = departments.Location_id) INNER JOIN Countries on(Countries.Country_id = Locations.Country_id) group by locations.city, countries.country_name having count(*) > 5;
+
