@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\AbstractExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6687A0BC-9DC1-482E-8530-6AA0A13B3A93}|AbstractExample\\AbstractExample.csproj|d:\\c and cpp\\class-programs-yashraj\\dotnet\\c#\\console\\abstractexample\\abstractexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6687A0BC-9DC1-482E-8530-6AA0A13B3A93}|AbstractExample\\AbstractExample.csproj|solutionrelative:abstractexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6687A0BC-9DC1-482E-8530-6AA0A13B3A93}|AbstractExample\\AbstractExample.csproj|d:\\c and cpp\\class-programs-yashraj\\dotnet\\c#\\console\\abstractexample\\abstractexample\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6687A0BC-9DC1-482E-8530-6AA0A13B3A93}|AbstractExample\\AbstractExample.csproj|solutionrelative:abstractexample\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6687A0BC-9DC1-482E-8530-6AA0A13B3A93}|AbstractExample\\AbstractExample.csproj|d:\\c and cpp\\class-programs-yashraj\\dotnet\\c#\\console\\abstractexample\\abstractexample\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6687A0BC-9DC1-482E-8530-6AA0A13B3A93}|AbstractExample\\AbstractExample.csproj|solutionrelative:abstractexample\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\AbstractExample\\AbstractExample\\Employee.cs",
+              "RelativeDocumentMoniker": "AbstractExample\\Employee.cs",
+              "ToolTip": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\AbstractExample\\AbstractExample\\Employee.cs",
+              "RelativeToolTip": "AbstractExample\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T08:48:08.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Company.cs",
+              "DocumentMoniker": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\AbstractExample\\AbstractExample\\Company.cs",
+              "RelativeDocumentMoniker": "AbstractExample\\Company.cs",
+              "ToolTip": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\AbstractExample\\AbstractExample\\Company.cs",
+              "RelativeToolTip": "AbstractExample\\Company.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T08:39:48.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\AbstractExample\\AbstractExample\\Program.cs",
+              "RelativeDocumentMoniker": "AbstractExample\\Program.cs",
+              "ToolTip": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\AbstractExample\\AbstractExample\\Program.cs",
+              "RelativeToolTip": "AbstractExample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T08:39:28.189Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

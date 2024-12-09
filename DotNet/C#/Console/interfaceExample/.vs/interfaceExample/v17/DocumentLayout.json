@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\interfaceExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A0AC883-8389-4008-A0BA-CFC6A3A141F6}|interfaceExample\\interfaceExample.csproj|d:\\c and cpp\\class-programs-yashraj\\dotnet\\c#\\console\\interfaceexample\\interfaceexample\\imammal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A0AC883-8389-4008-A0BA-CFC6A3A141F6}|interfaceExample\\interfaceExample.csproj|solutionrelative:interfaceexample\\imammal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A0AC883-8389-4008-A0BA-CFC6A3A141F6}|interfaceExample\\interfaceExample.csproj|d:\\c and cpp\\class-programs-yashraj\\dotnet\\c#\\console\\interfaceexample\\interfaceexample\\ianimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A0AC883-8389-4008-A0BA-CFC6A3A141F6}|interfaceExample\\interfaceExample.csproj|solutionrelative:interfaceexample\\ianimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A0AC883-8389-4008-A0BA-CFC6A3A141F6}|interfaceExample\\interfaceExample.csproj|d:\\c and cpp\\class-programs-yashraj\\dotnet\\c#\\console\\interfaceexample\\interfaceexample\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A0AC883-8389-4008-A0BA-CFC6A3A141F6}|interfaceExample\\interfaceExample.csproj|solutionrelative:interfaceexample\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A0AC883-8389-4008-A0BA-CFC6A3A141F6}|interfaceExample\\interfaceExample.csproj|d:\\c and cpp\\class-programs-yashraj\\dotnet\\c#\\console\\interfaceexample\\interfaceexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A0AC883-8389-4008-A0BA-CFC6A3A141F6}|interfaceExample\\interfaceExample.csproj|solutionrelative:interfaceexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IMammal.cs",
+              "DocumentMoniker": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\interfaceExample\\interfaceExample\\IMammal.cs",
+              "RelativeDocumentMoniker": "interfaceExample\\IMammal.cs",
+              "ToolTip": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\interfaceExample\\interfaceExample\\IMammal.cs",
+              "RelativeToolTip": "interfaceExample\\IMammal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T08:28:20.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAnimal.cs",
+              "DocumentMoniker": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\interfaceExample\\interfaceExample\\IAnimal.cs",
+              "RelativeDocumentMoniker": "interfaceExample\\IAnimal.cs",
+              "ToolTip": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\interfaceExample\\interfaceExample\\IAnimal.cs",
+              "RelativeToolTip": "interfaceExample\\IAnimal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T08:19:37.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\interfaceExample\\interfaceExample\\Dog.cs",
+              "RelativeDocumentMoniker": "interfaceExample\\Dog.cs",
+              "ToolTip": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\interfaceExample\\interfaceExample\\Dog.cs",
+              "RelativeToolTip": "interfaceExample\\Dog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T08:23:40.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\interfaceExample\\interfaceExample\\Program.cs",
+              "RelativeDocumentMoniker": "interfaceExample\\Program.cs",
+              "ToolTip": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\interfaceExample\\interfaceExample\\Program.cs",
+              "RelativeToolTip": "interfaceExample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T08:17:37.954Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\test3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B48E53FD-750B-4629-82B0-64492ED2C0C3}|test3\\test3.csproj|d:\\c and cpp\\class-programs-yashraj\\dotnet\\c#\\console\\test3\\test3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B48E53FD-750B-4629-82B0-64492ED2C0C3}|test3\\test3.csproj|solutionrelative:test3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48E53FD-750B-4629-82B0-64492ED2C0C3}|test3\\test3.csproj|d:\\c and cpp\\class-programs-yashraj\\dotnet\\c#\\console\\test3\\test3\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B48E53FD-750B-4629-82B0-64492ED2C0C3}|test3\\test3.csproj|solutionrelative:test3\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\test3\\test3\\Employee.cs",
+              "RelativeDocumentMoniker": "test3\\Employee.cs",
+              "ToolTip": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\test3\\test3\\Employee.cs",
+              "RelativeToolTip": "test3\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T12:56:02.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\test3\\test3\\Program.cs",
+              "RelativeDocumentMoniker": "test3\\Program.cs",
+              "ToolTip": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\test3\\test3\\Program.cs",
+              "RelativeToolTip": "test3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T12:54:10.189Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
