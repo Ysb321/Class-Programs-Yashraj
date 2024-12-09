@@ -25,3 +25,5 @@ Return Value: Functions can return a value back to the caller using the return s
 String:
 
 string is defined as a contiguous sequence of characters terminated by a null character ('\0').
+
+procedure oriented programming flow of execution occording to instruction
