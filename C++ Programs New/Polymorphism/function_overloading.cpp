@@ -19,6 +19,7 @@ class A{
     {
         cout<<"A = "<<a<<endl;
     }
+
 };
 
 class B: public A{
