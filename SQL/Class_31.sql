@@ -142,3 +142,12 @@ alter table customers modify Address varchar(35);
 alter table customers modify Name varchar(25);
 alter table customers modify Email varchar(35);
 alter table customers modify Address varchar(35);
+
+
+
+
+
+select manager_id,count(employee_id)
+from employees
+group by manager_id
+
