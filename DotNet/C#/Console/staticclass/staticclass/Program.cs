@@ -8,8 +8,15 @@ namespace staticclass
 {
     internal class Program
     {
+
+        
         static void Main(string[] args)
         {
+            //CStatic.Hello();
+            //CStatic.Hello();
+            //Console.WriteLine("Name: " + CStatic.Hello(1));
+            Console.WriteLine("Thsi");
+            Console.ReadKey();
         }
     }
 }

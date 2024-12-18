@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{746B96AC-A10B-4B8A-A2DD-34889081F46F}|staticclass\\staticclass.csproj|d:\\c and cpp\\class-programs-yashraj\\dotnet\\c#\\console\\staticclass\\staticclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{746B96AC-A10B-4B8A-A2DD-34889081F46F}|staticclass\\staticclass.csproj|solutionrelative:staticclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{746B96AC-A10B-4B8A-A2DD-34889081F46F}|staticclass\\staticclass.csproj|D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\staticclass\\staticclass\\cstatic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{746B96AC-A10B-4B8A-A2DD-34889081F46F}|staticclass\\staticclass.csproj|solutionrelative:staticclass\\cstatic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,9 +32,22 @@
               "RelativeDocumentMoniker": "staticclass\\Program.cs",
               "ToolTip": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\staticclass\\staticclass\\Program.cs",
               "RelativeToolTip": "staticclass\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwA4AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T14:11:07.862Z",
+              "WhenOpened": "2024-12-12T14:38:36.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CStatic.cs",
+              "DocumentMoniker": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\staticclass\\staticclass\\CStatic.cs",
+              "RelativeDocumentMoniker": "staticclass\\CStatic.cs",
+              "ToolTip": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\staticclass\\staticclass\\CStatic.cs",
+              "RelativeToolTip": "staticclass\\CStatic.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T14:27:44.485Z",
               "EditorCaption": ""
             }
           ]

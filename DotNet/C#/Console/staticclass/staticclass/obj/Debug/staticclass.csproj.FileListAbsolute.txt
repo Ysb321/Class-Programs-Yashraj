@@ -1,0 +1,7 @@
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\staticclass\staticclass\bin\Debug\staticclass.exe.config
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\staticclass\staticclass\bin\Debug\staticclass.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\staticclass\staticclass\bin\Debug\staticclass.pdb
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\staticclass\staticclass\obj\Debug\staticclass.csproj.AssemblyReference.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\staticclass\staticclass\obj\Debug\staticclass.csproj.CoreCompileInputs.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\staticclass\staticclass\obj\Debug\staticclass.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\staticclass\staticclass\obj\Debug\staticclass.pdb
